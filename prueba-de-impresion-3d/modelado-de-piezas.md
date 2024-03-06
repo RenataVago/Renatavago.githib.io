@@ -1,2 +1,0 @@
-# Modelado de piezas
-
