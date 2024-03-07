@@ -13,5 +13,6 @@ En este caso, yo modele las piezas en fusion360 pero la lógica utilizada se pod
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2024-03-04 at 10.33.09.jpeg" alt=""><figcaption><p>Partimos de un boceto esquemático realizado en papel, en el cual se aclaraba que la figura se encontraba dentro de un cubo cuyas medidas eran de 30x30x30mm.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/(Pieza 1) 1 (1).jpeg" alt=""><figcaption><p>Lo primero que hice fue dibujar en la base, la forma completa de la figura. Lo primero fue dibujar un cuadrado de 30x30mm y dividirlo en 4 cuadrantes y así, generar una guía ara los arcos que conforman la figura. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/(Pieza 1) 1 (1).jpeg" alt=""><figcaption><p>Lo primero que hice fue dibujar en la base, la forma completa de la figura. Para eso  dibuje un cuadrado de 30x30mm y lo dividí en 4 cuadrantes y así, generar una guía ara los arcos que conforman la figura. </p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/(Pieza 1) 2.jpeg" alt=""><figcaption></figcaption></figure>
