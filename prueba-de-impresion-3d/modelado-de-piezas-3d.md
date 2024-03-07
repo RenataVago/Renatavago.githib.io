@@ -15,4 +15,4 @@ En este caso, yo modele las piezas en fusion360 pero la lógica utilizada se pod
 
 <figure><img src="../.gitbook/assets/(Pieza 1) 1 (1).jpeg" alt=""><figcaption><p>Lo primero que hice fue dibujar en la base, la forma completa de la figura. Para eso  dibuje un cuadrado de 30x30mm y lo dividí en 4 cuadrantes y así, generar una guía ara los arcos que conforman la figura. </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/(Pieza 1) 2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/(Pieza 1) 2.jpeg" alt=""><figcaption><p>Lo sigiente fue, con la herramienta de extruir </p></figcaption></figure>
