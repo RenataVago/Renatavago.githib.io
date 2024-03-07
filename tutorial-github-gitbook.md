@@ -54,19 +54,19 @@ Ingrese al siguiente link.
 
 <figure><img src=".gitbook/assets/Sin título-1.jpg" alt=""><figcaption><p>Luego te va a llegar un código a tu mail, el cual debes colocar en la plataforma.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption><p>Luego de eso, nuestra cuenta de GitHub ya esta creada.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1) (1).jpeg" alt=""><figcaption><p>Luego de eso, nuestra cuenta de GitHub ya esta creada.</p></figcaption></figure>
 
 ## Paso #2 Crear un repositorio
 
-<figure><img src=".gitbook/assets/1.jpeg" alt=""><figcaption><p>Debes hacer click en donde dice "create repository" y se va  abrir esta pestaña en donde debes colocar el nombre del repositorio. </p></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1).jpeg" alt=""><figcaption><p>Debes hacer click en donde dice "create repository" y se va  abrir esta pestaña en donde debes colocar el nombre del repositorio. </p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">El nombre del repositorio debe ser "usuario.githib.io"</mark>
 {% endhint %}
 
-<figure><img src=".gitbook/assets/2.jpeg" alt=""><figcaption><p>No se debe añadir nada mas, solo dejar el repositorio publico y presionar en "create repository"</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1).jpeg" alt=""><figcaption><p>No se debe añadir nada mas, solo dejar el repositorio publico y presionar en "create repository"</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3 (1).jpeg" alt=""><figcaption><p>Listo, el repositorio fue creado.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1) (1).jpeg" alt=""><figcaption><p>Listo, el repositorio fue creado.</p></figcaption></figure>
 
 ## Paso #3 Descargar GitHub Desktop y clonar tu repositorio
 
@@ -74,21 +74,21 @@ Ingrese al siguiente link.
 Ingrese al siguiente link.
 {% endembed %}
 
-<figure><img src=".gitbook/assets/1 (1).jpeg" alt=""><figcaption><p>Debe hacer click en "Download for Windows (64bit)" y seguir los pasos comunes para descargar una app.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1 (1) (1).jpeg" alt=""><figcaption><p>Debe hacer click en "Download for Windows (64bit)" y seguir los pasos comunes para descargar una app.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2 (1).jpeg" alt=""><figcaption><p>Finalmete, cuando ya este descargada la app, al abrirla debera aparecer lo de la imagen en su pantalla.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2 (1) (1).jpeg" alt=""><figcaption><p>Finalmete, cuando ya este descargada la app, al abrirla debera aparecer lo de la imagen en su pantalla.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/3 (2).jpeg" alt=""><figcaption><p>Para abrir la cuenta de GitHub en GitHub Desktop podemos acceder desde File, luego seleccionar Options.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5.jpeg" alt=""><figcaption><p>En Options debemos seleccionar Accounts y luego <em>"</em>Sign Into GitHub Enterprise."</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5 (1).jpeg" alt=""><figcaption><p>En Options debemos seleccionar Accounts y luego <em>"</em>Sign Into GitHub Enterprise."</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/6.jpeg" alt=""><figcaption><p>Podemos ingresar desde la cuenta que tenemos abierta en el navegador.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/6 (1).jpeg" alt=""><figcaption><p>Podemos ingresar desde la cuenta que tenemos abierta en el navegador.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7.jpeg" alt=""><figcaption><p>Lo siguiente es escribir el nombre de nuestro repositorio creado en la web y hacer click en "Clone repository from the internet."</p></figcaption></figure>
+<figure><img src=".gitbook/assets/7 (1).jpeg" alt=""><figcaption><p>Lo siguiente es escribir el nombre de nuestro repositorio creado en la web y hacer click en "Clone repository from the internet."</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/8.jpeg" alt=""><figcaption><p>Se debe añadir el URL de repositorio creado en la web y en la parte de local path se debe añadir una carpeta creada en el escritorio en donde se van a alojar nuestro repositorios. Por ultimo, hacer click en "clone".</p></figcaption></figure>
+<figure><img src=".gitbook/assets/8 (1).jpeg" alt=""><figcaption><p>Se debe añadir el URL de repositorio creado en la web y en la parte de local path se debe añadir una carpeta creada en el escritorio en donde se van a alojar nuestro repositorios. Por ultimo, hacer click en "clone".</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/9.jpeg" alt=""><figcaption><p>Volvemos automáticamente al inicio de GitHub Desktop y en el margen superior izquierdo podemos comprobar que nuestro repositorio ha sido abierto y clonado correctamente.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/9 (1).jpeg" alt=""><figcaption><p>Volvemos automáticamente al inicio de GitHub Desktop y en el margen superior izquierdo podemos comprobar que nuestro repositorio ha sido abierto y clonado correctamente.</p></figcaption></figure>
 
 ## Paso #4 Crear cuenta en GitBook
 
@@ -100,9 +100,9 @@ Ingrese al siguiente link.
 
 <figure><img src=".gitbook/assets/2 (2).jpeg" alt=""><figcaption><p>Deberás registrarte como organización y presionar "Continue"</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3.jpeg" alt=""><figcaption><p>En etse paso te pide que agregues los correos de las personas que conforman la organizacion. En nuestro caso, se debe hacer click en <em>"</em>I will do this later<em>."</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/3 (1).jpeg" alt=""><figcaption><p>En etse paso te pide que agregues los correos de las personas que conforman la organizacion. En nuestro caso, se debe hacer click en <em>"</em>I will do this later<em>."</em></p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/4.jpeg" alt=""><figcaption><p>Finalmente, nuestra cuenta de GitBook ya se encentra creada. El siguiente paso es vincular las cuentas de GitBook y GitHub.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4 (1).jpeg" alt=""><figcaption><p>Finalmente, nuestra cuenta de GitBook ya se encentra creada. El siguiente paso es vincular las cuentas de GitBook y GitHub.</p></figcaption></figure>
 
 ## Pas #5 Vincular nuestra cuenta de GitHub con GitBook
 
