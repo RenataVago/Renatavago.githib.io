@@ -21,3 +21,10 @@ En este caso, yo modele las piezas en fusion360 pero la lógica utilizada se pod
 
 <figure><img src="../.gitbook/assets/(Pieza 1) 4.jpeg" alt=""><figcaption><p>Por ultimo, con la herramienta de copiar/mover lo rote 90° hacia un lado.</p></figcaption></figure>
 
+## Pieza 2
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2024-03-04 at 10.33.09 (1).jpeg" alt=""><figcaption><p>Partimos de un boceto esquemático realizado en papel, en el cual se aclaraba que la figura se encontraba dentro de un cubo cuyas medidas eran de 30x30x30mm.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/(Pieza 2) 1.jpeg" alt=""><figcaption><p>Lo primero que hice fue dibujar en la base un cuadrado de 30x30mm.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/(Pieza 2) 2.jpeg" alt=""><figcaption></figcaption></figure>
